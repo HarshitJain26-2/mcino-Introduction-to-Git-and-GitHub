@@ -1,4 +1,4 @@
-curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub
+curl -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub
 
 {
   "id": 1421990735,
@@ -68,8 +68,8 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
   "releases_url": "https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
   "deployments_url": "https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-10-16T10:10:33Z",
-  "updated_at": "2026-10-16T10:10:34Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-10-16T10:37:08Z",
+  "pushed_at": "2026-10-16T10:37:01Z",
   "git_url": "git://github.com/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/HarshitJain26-2/mcino-Introduction-to-Git-and-GitHub.git",
@@ -78,7 +78,7 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
   "size": 18,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -196,7 +196,7 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10988,
+    "forks_count": 10991,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -217,7 +217,7 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
 
     ],
     "visibility": "public",
-    "forks": 10988,
+    "forks": 10991,
     "open_issues": 48,
     "watchers": 20,
     "default_branch": "main"
@@ -307,7 +307,7 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10988,
+    "forks_count": 10991,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -328,11 +328,11 @@ curl.exe -s https://api.github.com/repos/HarshitJain26-2/mcino-Introduction-to-G
 
     ],
     "visibility": "public",
-    "forks": 10988,
+    "forks": 10991,
     "open_issues": 48,
     "watchers": 20,
     "default_branch": "main"
   },
-  "network_count": 10988,
+  "network_count": 10991,
   "subscribers_count": 0
 }
