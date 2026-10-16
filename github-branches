@@ -1,0 +1,7 @@
+git branch -avv
+
+  bug-fix-typo                57581c9 [origin/bug-fix-typo] Fix typo: Addtional -> Additional in simple-interest.sh
+* main                        e801e3b [origin/main] Add bug-fix-revert file with PR 12474 API verification
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 57581c9 Fix typo: Addtional -> Additional in simple-interest.sh
+  remotes/origin/main         e801e3b Add bug-fix-revert file with PR 12474 API verification
